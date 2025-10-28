@@ -15,3 +15,7 @@ Git repo:
 ```
 foxit64/zsh-theme-rio [ main ▪ ] »
 ```
+
+Screenshot:
+
+![rio](./img/rio.png)
